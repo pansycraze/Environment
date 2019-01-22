@@ -1,0 +1,149 @@
+{
+    "Version": 84,
+    "Entities": [
+        {
+            "userData": "{\"blender_export\":\"ee0aced9-7900-51b5-af01-077f27caa210\"}, \"grabbable_key\":[\"grabbable\":false]}",
+            "name": "wu_wa",
+            "dimensions": {
+                "x": 18.131324768066406,
+                "y": 18.206134796142578,
+                "z": 12.387554168701172
+            },
+            "id": "ee0aced9-7900-51b5-af01-077f27caa210",
+            "rotation": {
+                "x": 0.7071067690849304,
+                "y": 0.0,
+                "w": 0.7071068286895752,
+                "z": -0.0
+            },
+            "modelURL": "atp:/JadePalaceScene/wu_wa.fbx",
+            "position": {
+                "x": 21.08152198791504,
+                "y": -0.8637215495109558,
+                "z": 52.55317306518555
+            },
+            "shapeType": "static-mesh",
+            "type": "Model"
+        },
+        {
+            "userData": "{\"blender_export\":\"6af8174b-48be-53fb-9247-15a35a3f2c63\"}, \"grabbable_key\":[\"grabbable\":false]}",
+            "name": "qiang_ti",
+            "dimensions": {
+                "x": 15.298009872436523,
+                "y": 15.382169723510742,
+                "z": 12.330278396606445
+            },
+            "id": "6af8174b-48be-53fb-9247-15a35a3f2c63",
+            "rotation": {
+                "x": 0.7071067690849304,
+                "y": 0.0,
+                "w": 0.7071068286895752,
+                "z": -0.0
+            },
+            "modelURL": "atp:/JadePalaceScene/qiang_ti.fbx",
+            "position": {
+                "x": 21.05882453918457,
+                "y": -0.789404571056366,
+                "z": 52.68708801269531
+            },
+            "shapeType": "static-mesh",
+            "type": "Model"
+        },
+        {
+            "userData": "{\"blender_export\":\"3ea59dc7-18a2-520b-8afd-a565e04bf6ab\"}, \"grabbable_key\":[\"grabbable\":false]}",
+            "name": "pei_jian",
+            "dimensions": {
+                "x": 17.242990493774414,
+                "y": 17.345855712890625,
+                "z": 15.921010971069336
+            },
+            "id": "3ea59dc7-18a2-520b-8afd-a565e04bf6ab",
+            "rotation": {
+                "x": 0.7071067690849304,
+                "y": 0.0,
+                "w": 0.7071068286895752,
+                "z": -0.0
+            },
+            "modelURL": "atp:/JadePalaceScene/pei_jian.fbx",
+            "position": {
+                "x": 21.054052352905273,
+                "y": -0.789404571056366,
+                "z": 52.66026306152344
+            },
+            "shapeType": "static-mesh",
+            "type": "Model"
+        },
+        {
+            "userData": "{\"blender_export\":\"773df041-5a2c-58b8-970c-17f2f672a5b8\"}, \"grabbable_key\":[\"grabbable\":false]}",
+            "name": "xia_ceng",
+            "dimensions": {
+                "x": 11.168828010559082,
+                "y": 11.229475975036621,
+                "z": 2.537945508956909
+            },
+            "id": "773df041-5a2c-58b8-970c-17f2f672a5b8",
+            "rotation": {
+                "x": 0.7071067690849304,
+                "y": 0.0,
+                "w": 0.7071068286895752,
+                "z": -0.0
+            },
+            "modelURL": "atp:/JadePalaceScene/xia_ceng.fbx",
+            "position": {
+                "x": 21.007598876953125,
+                "y": -0.789404571056366,
+                "z": 52.55317306518555
+            },
+            "shapeType": "static-mesh",
+            "type": "Model"
+        },
+        {
+            "userData": "{\"blender_export\":\"ff1383af-8adb-5e67-a913-54035a8c6986\"}, \"grabbable_key\":[\"grabbable\":false]}",
+            "name": "qwe",
+            "dimensions": {
+                "x": 11.216360092163086,
+                "y": 11.132203102111816,
+                "z": 2.4756407737731934
+            },
+            "id": "ff1383af-8adb-5e67-a913-54035a8c6986",
+            "rotation": {
+                "x": 0.7071067690849304,
+                "y": 0.0,
+                "w": 0.7071068286895752,
+                "z": -0.0
+            },
+            "modelURL": "atp:/JadePalaceScene/qwe.fbx",
+            "position": {
+                "x": 21.04323387145996,
+                "y": -0.789404571056366,
+                "z": 52.83145523071289
+            },
+            "shapeType": "static-mesh",
+            "type": "Model"
+        },
+        {
+            "userData": "{\"blender_export\":\"73a9bb77-72e7-5f21-916d-29c171f329b0\"}, \"grabbable_key\":[\"grabbable\":false]}",
+            "name": "obj",
+            "dimensions": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "id": "73a9bb77-72e7-5f21-916d-29c171f329b0",
+            "rotation": {
+                "x": 0.7071067690849304,
+                "y": 0.0,
+                "w": 0.7071068286895752,
+                "z": -0.0
+            },
+            "modelURL": "atp:/JadePalaceScene/obj.fbx",
+            "position": {
+                "x": 0.0,
+                "y": -0.5294018983840942,
+                "z": -0.0
+            },
+            "shapeType": "static-mesh",
+            "type": "Model"
+        }
+    ]
+}
